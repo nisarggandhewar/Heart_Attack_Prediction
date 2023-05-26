@@ -48,4 +48,5 @@ Following are the some visualization generated in this case study
 
 ![h3](https://github.com/nisarggandhewar/Heart_Attack_Prediction/assets/43102697/4b42189d-7da8-40e8-b49c-c4825714a15f)
 
-
+# Conclusion
+Random forest algorithm works well on this heart dataset.
