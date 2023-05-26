@@ -38,3 +38,13 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 7) Performed comparative analysis of different classification algorithm.
 
 # Visualization
+Heatmap
+![h1](https://github.com/nisarggandhewar/Heart_Attack_Prediction/assets/43102697/3e78f705-0c65-4808-9818-3309e7070c45)
+
+Pairplot
+![h2](https://github.com/nisarggandhewar/Heart_Attack_Prediction/assets/43102697/9960a2eb-7fab-450a-96a0-a7b3e5bd77da)
+
+Comparative Analysis
+![h3](https://github.com/nisarggandhewar/Heart_Attack_Prediction/assets/43102697/4b42189d-7da8-40e8-b49c-c4825714a15f)
+
+
